@@ -17,9 +17,10 @@ from masonite.providers import (
     UploadProvider,
     ViewProvider,
     WhitenoiseProvider,
+
 )
 from masonite.logging.providers import LoggingProvider
-from masonite.validation.providers import ValidationProvider
+# from masonite.validation.providers import ValidationProvider
 from masoniteorm.providers import ORMProvider
 
 """Providers List
@@ -32,7 +33,7 @@ learn more more about Service Providers in our documentation
 PROVIDERS = [
     # Framework Providers
     AppProvider,
-    CorsProvider,
+    CorsProvider, # ADD THIS
     RequestHelpersProvider,
     CsrfProvider,
     AuthenticationProvider,
