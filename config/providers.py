@@ -20,7 +20,7 @@ from masonite.providers import (
 
 )
 from masonite.logging.providers import LoggingProvider
-# from masonite.validation.providers import ValidationProvider
+from masonite.validation.providers import ValidationProvider
 from masoniteorm.providers import ORMProvider
 
 """Providers List
@@ -49,10 +49,10 @@ PROVIDERS = [
     CacheProvider,
     BroadcastProvider,
     HelpersProvider,
-    # ValidationProvider,
+    ValidationProvider,
     # Third Party Providers
     LoggingProvider,
-    # ValidationProvider,
+    ValidationProvider,
     ORMProvider,
     # Application Providers
 ]
