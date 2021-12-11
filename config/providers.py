@@ -49,10 +49,10 @@ PROVIDERS = [
     CacheProvider,
     BroadcastProvider,
     HelpersProvider,
-    ValidationProvider,
+    # ValidationProvider,
     # Third Party Providers
     LoggingProvider,
-    ValidationProvider,
+    # ValidationProvider,
     ORMProvider,
     # Application Providers
 ]
