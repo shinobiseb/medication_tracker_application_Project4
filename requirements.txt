@@ -17,6 +17,7 @@ MarkupSafe==2.0.1
 masonite==3.0.13
 masonite-logging==1.0.1
 masonite-orm==1.0.64
+masonite-validation==3.0.14
 passlib==1.7.4
 pastel==0.2.1
 pendulum==2.1.2
