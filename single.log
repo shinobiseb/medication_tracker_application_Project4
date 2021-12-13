@@ -164,36 +164,3 @@
 2021-12-11 05:05:17 - ERROR - ResponseError in 0 on line 0
 2021-12-11 05:06:00 - INFO - "GET / HTTP/1.1" 200 1219
 2021-12-11 05:06:00 - INFO - "GET /static/style.css HTTP/1.1" 200 648
-2021-12-11 05:26:36 - INFO - "GET / HTTP/1.1" 200 1219
-2021-12-11 05:26:36 - INFO - "GET /static/style.css HTTP/1.1" 304 0
-2021-12-11 05:26:36 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
-2021-12-11 05:26:36 - WARNING - Python-dotenv could not parse statement starting at line 19
-2021-12-11 05:26:36 - WARNING - Python-dotenv could not parse statement starting at line 21
-2021-12-11 05:26:36 - WARNING - Python-dotenv could not parse statement starting at line 22
-2021-12-11 05:26:36 - WARNING - Python-dotenv could not parse statement starting at line 23
-2021-12-11 05:26:36 - WARNING - Python-dotenv could not parse statement starting at line 24
-2021-12-11 05:26:36 - WARNING - Python-dotenv could not parse statement starting at line 25
-2021-12-11 05:26:36 - WARNING - Python-dotenv could not parse statement starting at line 26
-2021-12-11 05:26:36 - INFO - "GET /dates HTTP/1.1" 200 687
-2021-12-11 05:33:45 - WARNING - Python-dotenv could not parse statement starting at line 19
-2021-12-11 05:33:45 - WARNING - Python-dotenv could not parse statement starting at line 21
-2021-12-11 05:33:45 - WARNING - Python-dotenv could not parse statement starting at line 22
-2021-12-11 05:33:45 - WARNING - Python-dotenv could not parse statement starting at line 23
-2021-12-11 05:33:45 - WARNING - Python-dotenv could not parse statement starting at line 24
-2021-12-11 05:33:45 - WARNING - Python-dotenv could not parse statement starting at line 25
-2021-12-11 05:33:45 - WARNING - Python-dotenv could not parse statement starting at line 26
-2021-12-11 05:33:45 - INFO - "GET /dates HTTP/1.1" 200 687
-2021-12-13 00:54:07 - ERROR - "POST /dates HTTP/1.1" 500 59
-2021-12-13 00:54:07 - INFO - "GET / HTTP/1.1" 200 1219
-2021-12-13 00:54:07 - INFO - "GET /static/style.css HTTP/1.1" 304 0
-2021-12-13 00:54:07 - WARNING - Python-dotenv could not parse statement starting at line 19
-2021-12-13 00:54:07 - WARNING - Python-dotenv could not parse statement starting at line 21
-2021-12-13 00:54:07 - WARNING - Python-dotenv could not parse statement starting at line 22
-2021-12-13 00:54:07 - WARNING - Python-dotenv could not parse statement starting at line 23
-2021-12-13 00:54:07 - WARNING - Python-dotenv could not parse statement starting at line 24
-2021-12-13 00:54:07 - WARNING - Python-dotenv could not parse statement starting at line 25
-2021-12-13 00:54:07 - WARNING - Python-dotenv could not parse statement starting at line 26
-2021-12-13 00:54:07 - INFO - "GET /dates HTTP/1.1" 200 687
-2021-12-13 00:54:07 - INFO - "POST /dates HTTP/1.1" 200 176
-2021-12-13 00:54:07 - INFO - "GET /dates HTTP/1.1" 200 865
-2021-12-13 00:54:07 - INFO - "GET /favicon.ico HTTP/1.1" 304 0

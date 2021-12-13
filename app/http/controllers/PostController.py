@@ -23,8 +23,8 @@ class PostController(Controller):
         timetaken = self.request.input("timetaken")
         medname = self.request.input("medname")
         medamount = self.request.input("medamount")
-        date = Date.create({"date": date, "timetaken": timetaken, "medname": medname, "medamount": medamount})
-        return date
+        dateT = Date.create({"date": date, "timetaken": timetaken, "medname": medname, "medamount": medamount})
+        return dateT
 
     def update(self):
         id = self.request.param("id")

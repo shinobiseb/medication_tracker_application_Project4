@@ -2,7 +2,7 @@
 
 from masonite.providers import (
     AppProvider,
-    CorsProvider,
+    CorsProvider, # ADD THIS
     RequestHelpersProvider,
     AuthenticationProvider,
     BroadcastProvider,
