@@ -10,7 +10,7 @@ class CreateDatesTable(Migration):
         """
         with self.schema.create("dates") as table:
             table.increments("id")
-            table.string("date")
+            table.date("date")
             table.string("timetaken")
             table.string("medname")
             table.integer("medamount")
